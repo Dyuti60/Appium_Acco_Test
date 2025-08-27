@@ -1,0 +1,16 @@
+{
+  "loginPage": {
+    "username_field": {
+      "by": "AppiumBy.ID",
+      "value": "com.example.app:id/username"
+    },
+    "password_field": {
+      "by": "AppiumBy.ID",
+      "value": "com.example.app:id/password"
+    },
+    "login_button": {
+      "by": "AppiumBy.ACCESSIBILITY_ID",
+      "value": "loginBtn"
+    }
+  }
+}
